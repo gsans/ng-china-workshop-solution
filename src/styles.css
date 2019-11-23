@@ -176,3 +176,9 @@
     flex-wrap: wrap;
     margin: 25px; 
   }
+
+/* style fix */
+.amplify-select-phone-country {
+  height: 43px;
+  width: 75px;
+}
